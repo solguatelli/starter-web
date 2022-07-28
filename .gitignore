@@ -1,1 +1,3 @@
 unwanted-file.txt
+*.log
+log/
