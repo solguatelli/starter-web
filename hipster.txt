@@ -1,4 +1,0 @@
-A hacker on a roll may be able to produce–in a period of a few months–something that a small development group (say, 7-8 people) would have a hard time getting together over a year. IBM used to report that certain programmers might be as much as 100 times as productive as other workers, or more. (Peter Seebach) It’s a curious thing about our industry: not only do we not learn from our mistakes, but we also don’t learn from our successes. (Keith Braithwaite) Controlling complexity is the essence of computer programming. (Brian Kernigan) The city’s central computer told you? R2D2, you know better than to trust a strange computer! (C3PO) If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be, ‘We’re sorry, here’s a coupon for two more.’ (Mark Minasi)
-
-More dummy text
-
