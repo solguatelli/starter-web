@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sol Guatelli -- Admin -- @solguatelli
 
 # THANKS
 
