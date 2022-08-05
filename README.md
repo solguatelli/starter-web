@@ -5,6 +5,7 @@ Adding a sentence for rebase examples, now another words from myfeature too.
 ## Introduction
 
 This repository is for showing how Git and GitHub work
+Also to show how stashing untracked files work
 
 ## About
 
