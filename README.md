@@ -20,6 +20,6 @@ Some references
 
 # Copyright
 
-Copyright notice
+Git Training 2022 All rights reserved
 
 # Extras
