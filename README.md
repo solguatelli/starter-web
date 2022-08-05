@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Adding a sentence for rebase examples
+Adding a sentence for rebase examples, now another words from myfeature too.
 
 ## Introduction
 
